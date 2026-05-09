@@ -1,7 +1,7 @@
 # Lộ trình học 3000 từ tiếng Anh (Oxford 3000)
 
 **Kế hoạch:** 20 từ/ngày × 150 ngày = 3000 từ
-**Cách trình bày:** Tiếng Anh – Loại từ – Nghĩa tiếng Việt – Ví dụ – Dịch ví dụ
+**Cách trình bày:** Tiếng Anh – Loại từ – Nghĩa tiếng Việt – Phát âm (🔊) – Ví dụ – Dịch ví dụ
 
 ---
 
